@@ -42,6 +42,7 @@ body{
     padding: 1em;
     color: var(--branco-principal);
     display: block;
+    margin: 20px;
 }
 
 .botao_secundario{
@@ -63,5 +64,22 @@ body{
     padding: 10px;
     font-size: 10px;
 }
+
+.container.secundario{
+    width: 80%;
+}
+
+.secundario{
+    align-items: center;
+    margin: 0 auto;
+}
+
+.descricao_titulo{
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--branco-principal);
+}
+
+
 
 
